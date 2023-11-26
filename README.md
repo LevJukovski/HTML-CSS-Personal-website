@@ -1,2 +1,2 @@
 # HTML-CSS-Personal-website
-Hey! I've build a personal website using HTML and CSS.
+Hey! I've build a personal by website using HTML and CSS.
