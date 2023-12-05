@@ -32,6 +32,30 @@
   margin-top: 2px;
 }
 
+@media (min-width: 1200px) {
+  .profession {
+    min-width: 848px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .profession {
+    max-width: 910px;
+  }
+}
+
+@media (min-width: 1530px) {
+  .profession {
+    min-width: 900px;
+  }
+}
+
+@media (min-width: 1740px) {
+  .profession {
+    max-width: 1800px;
+  }
+}
+
 .upper_buttons {
   background-color: rgb(255, 218, 218);
   font-family: Playfair Display Arial;
