@@ -133,3 +133,18 @@
 .page-IV {
   left: 37px;
 }
+
+@media (min-width: 1740px) {
+  .info-title {
+    font-size: 60;
+  }
+  
+  .pre-info {
+    font-size: 38px;
+  }
+
+  .info-1, .info-2 {
+    font-size: 18px;
+    margin-left: 16px;
+  }
+}
